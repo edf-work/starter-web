@@ -14,6 +14,8 @@ to provide more examples.
 
 ## How to contribute
 
+Please fork this repo and then issue pull requests for review
+
 ## Copyright
 
 2014 git training
