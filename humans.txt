@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ed Ford edward.ford@team.neustar
 
 # THANKS
 
