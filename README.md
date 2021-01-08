@@ -13,3 +13,7 @@ to provide more examples.
 ## Deployment
 
 ## How to contribute
+
+## Copyright
+
+2014 git training
